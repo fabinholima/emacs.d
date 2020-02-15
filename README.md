@@ -14,9 +14,11 @@ E abra o emacs
 
 ** Dark Theme
 
-[[Screenshots1.png]]
+
+![Image of Screen1](https://github.com/fabiollima/emacs.d/blob/master/Screenshot1.png)
+
 
 
 ** Light Theme
 
-[[Screenshot2.png]]
+![Image of Screen2](https://github.com/fabiollima/emacs.d/blob/master/Screenshot3.png)
