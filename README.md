@@ -8,3 +8,15 @@ Clone o repositório
 
 
 E abra o emacs
+
+
+* Screenshots
+
+** Dark Theme
+
+[[Screenshots1.png]]
+
+
+** Light Theme
+
+[[Screenshot2.png]]
