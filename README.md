@@ -4,7 +4,7 @@
 
 Clone o repositório 
 
-`git clone https://github.com/fabiollima/emacs.d.git ~/.emacs.d`
+`git clone https://github.com/fabinholima/emacs.d.git ~/.emacs.d`
 
 
 E abra o emacs
